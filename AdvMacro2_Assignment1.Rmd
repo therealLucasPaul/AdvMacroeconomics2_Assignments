@@ -1,0 +1,32 @@
+---
+title: "Advanced Macro 2 - Assignment 1"
+author: "Unterweger L., Oberbrinkmann S."
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Preliminary
+We hereby declare that the answers to the given assignment are entirely our own, resulting from our own work effort only. Our team members contributed to the answers of the assignment in the following proportions:\\
+\begin{itemize}
+  \item Unterweger Lucas: 50%
+  \item Oberbrinkmann Sophia: 50%
+\end{itemize}
+
+# Question 1: Business cycles stylized facts (4 Points)
+
+# Question 2: A real business cycle model with energy price shocks (5 points)
+
+Expected discounted utility of the representative household:
+\begin{equation}
+  U = E_0\left[\sum_{t=0}^\infty\beta_t\frac{C_t^{1-\sigma}}{1-\sigma}+\theta \log(1-N_t)\right]
+\end{equation}
+subject to
+\begin{equation}
+  C_t + K_{t+1}+P_tEN_t \leq A_tK_t^\alpha N_t^\gamma EN_t^{1-\alpha-\gamma}+(1-\delta)K_t
+\end{equation}
+
+# Question 3: Understanding impulse responses and model simulation (total of 8 points)
