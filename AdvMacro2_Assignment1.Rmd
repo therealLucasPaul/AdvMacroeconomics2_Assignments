@@ -7,6 +7,7 @@ output: pdf_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+options(scipen=10)
 ```
 
 # Preliminary
@@ -17,6 +18,40 @@ We hereby declare that the answers to the given assignment are entirely our own,
 \end{itemize}
 
 # Question 1: Business cycles stylized facts (4 Points)
+
+We'll start by setting up our coding environment by importing necessary packages. (Code not shown.)
+```{r, include=FALSE}
+require(ggplot2)
+require(forecast)
+require(lmtest)
+require(tidyverse)
+require(readxl)
+require(zoo)
+```
+
+Now, we can import and clean our data set.
+```{r}
+ireland <- read_excel("data/Ireland_GDPData.xlsx", sheet = 4)
+colnames(ireland) <- c("t","Y","G","C","I")
+head(ireland)
+GDP <- ts(ireland$Y, start = 1995.0, frequency = 4)
+C <- ts(ireland$C, start = 1995.0, frequency = 4)
+I <- ts(ireland$I, start = 1995.0, frequency = 4)
+G <- ts(ireland$G, start = 1995.0, frequency = 4)
+plot(GDP)
+plot(C)
+plot(I)
+plot(G)
+```
+
+Let's compute the sample means:
+```{r}
+mean(GDP)
+mean(C)
+mean(I)
+mean(G)
+```
+
 
 # Question 2: A real business cycle model with energy price shocks (5 points)
 
