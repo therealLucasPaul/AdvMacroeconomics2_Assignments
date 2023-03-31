@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.27)  27 MAR 2023 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.27)  30 MAR 2023 14:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -178,6 +178,21 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen156
 \Gm@layoutvoffset=\dimen157
 \Gm@dimlist=\toks24
+) (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2023/01/19 4.5a verbatim text (tvz,hv)
+\FV@CodeLineNo=\count274
+\FV@InFile=\read2
+\FV@TabBox=\box53
+\c@FancyVerbLine=\count275
+\FV@StepNumber=\count276
+\FV@OutFile=\write3
+) (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip53
+\fb@frw=\dimen158
+\fb@frh=\dimen159
+\FrameRule=\dimen160
+\FrameSep=\dimen161
 ) (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
@@ -189,8 +204,8 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen158
-\Gin@req@width=\dimen159
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
 ) (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -224,11 +239,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count274
+\c@section@level=\count277
 )
-\@linkdim=\dimen160
-\Hy@linkcounter=\count275
-\Hy@pagecounter=\count276
+\@linkdim=\dimen164
+\Hy@linkcounter=\count278
+\Hy@pagecounter=\count279
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -238,7 +253,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count277
+\Hy@SavedSpaceFactor=\count280
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -252,21 +267,21 @@ Package hyperref Info: Plain pages OFF on input line 4192.
 Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
-\c@Hy@tempcnt=\count278
+\c@Hy@tempcnt=\count281
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen161
+\XeTeXLinkMargin=\dimen165
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count279
-\Field@Width=\dimen162
-\Fld@charsize=\dimen163
+\Fld@menulength=\count282
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -278,9 +293,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count280
-\c@Item=\count281
-\c@Hfootnote=\count282
+\Hy@abspage=\count283
+\c@Item=\count284
+\c@Hfootnote=\count285
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
@@ -289,8 +304,8 @@ File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count283
-\c@bookmark@seq@number=\count284
+\Fld@listcount=\count286
+\c@bookmark@seq@number=\count287
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -298,33 +313,33 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip53
+\Hy@SectionHShift=\skip54
 ) (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count285
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box54
 )
 No file AdvMacro2_Assignment1.aux.
 \openout1 = `AdvMacro2_Assignment1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 110.
+LaTeX Font Info:    ... okay on input line 110.
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -365,62 +380,124 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 70.
-\@outlinefile=\write3
-\openout3 = `AdvMacro2_Assignment1.out'.
+Package hyperref Info: Link coloring OFF on input line 110.
+\@outlinefile=\write4
+\openout4 = `AdvMacro2_Assignment1.out'.
 
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 72.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 112.
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 72.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 112.
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 72.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 112.
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 72.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 112.
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 72.
+(Font)              <12> on input line 112.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 72.
+(Font)              <8> on input line 112.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 72.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 72.
+(Font)              <6> on input line 112.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 112.
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 112.
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 82.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 122.
 (c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 136.
+(c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+<AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-1.pdf, id=4, 469.755pt x 325.215pt>
+File: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-1.pdf Graphic file (type pdf)
+<use AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-1.pdf>
+Package pdftex.def Info: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-1.pdf  used on input line 175.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+[1
+
+{c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/Users/Lucas Paul/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+<AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-2.pdf, id=20, 469.755pt x 325.215pt>
+File: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-2.pdf Graphic file (type pdf)
+<use AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-2.pdf>
+Package pdftex.def Info: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-2.pdf  used on input line 183.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+[2 <./AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-1.pdf>]
+<AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-3.pdf, id=30, 469.755pt x 325.215pt>
+File: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-3.pdf Graphic file (type pdf)
+<use AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-3.pdf>
+Package pdftex.def Info: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-3.pdf  used on input line 191.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+[3 <./AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-2.pdf>]
+<AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-4.pdf, id=40, 469.755pt x 325.215pt>
+File: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-4.pdf Graphic file (type pdf)
+<use AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-4.pdf>
+Package pdftex.def Info: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-4.pdf  used on input line 199.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--201
+[][]
+ []
+
+[4 <./AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-3.pdf>] [5 <./AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-2-4.pdf>]
+<AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-1.pdf, id=61, 469.755pt x 325.215pt>
+File: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-1.pdf Graphic file (type pdf)
+<use AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-1.pdf>
+Package pdftex.def Info: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-1.pdf  used on input line 247.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+<AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-2.pdf, id=62, 469.755pt x 325.215pt>
+File: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-2.pdf Graphic file (type pdf)
+<use AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-2.pdf>
+Package pdftex.def Info: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-2.pdf  used on input line 255.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+[6 <./AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-1.pdf>]
+<AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-3.pdf, id=73, 469.755pt x 325.215pt>
+File: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-3.pdf Graphic file (type pdf)
+<use AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-3.pdf>
+Package pdftex.def Info: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-3.pdf  used on input line 263.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+[7 <./AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-2.pdf>]
+<AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-4.pdf, id=85, 469.755pt x 325.215pt>
+File: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-4.pdf Graphic file (type pdf)
+<use AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-4.pdf>
+Package pdftex.def Info: AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-4.pdf  used on input line 271.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+[8 <./AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-3.pdf>] [9 <./AdvMacro2_Assignment1_files/figure-latex/unnamed-chunk-4-4.pdf>] [10]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 96.
+(Font)              <10> on input line 401.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 96.
+(Font)              <7> on input line 401.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 96.
-! Missing $ inserted.
-<inserted text> 
-                $
-l.99   $$C_
-           t + K_{t+1}+P_tEN_t \leq A_tK_t^\alpha N_t^\gamma EN_t^{1-\alpha-... 
+(Font)              <5> on input line 401.
+
+! LaTeX Error: Illegal character in array arg.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.416 \begin{array} \alpha
+                           = a\\ b= 
 Here is how much of TeX's memory you used:
- 10461 strings out of 477985
- 166019 string characters out of 5837248
- 1852382 words of memory out of 5000000
- 30503 multiletter control sequences out of 15000+600000
- 551944 words of font info for 69 fonts, out of 8000000 for 9000
+ 11094 strings out of 477985
+ 178989 string characters out of 5837248
+ 1864382 words of memory out of 5000000
+ 31085 multiletter control sequences out of 15000+600000
+ 558256 words of font info for 72 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,76p,326b,398s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,76p,498b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
