@@ -1,0 +1,31 @@
+Starting Dynare (version 5.4).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 12 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 1).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : -0.018511 : 1
+Equation number 2 : 0 : 2
+Equation number 3 : 0 : 3
+Equation number 4 : 0 : 4
+Equation number 5 : 0.21497 : 5
+Equation number 6 : 0.21567 : 6
+Equation number 7 : 0.35397 : 7
+Equation number 8 : 0 : 8
+Equation number 9 : 0 : V
+Equation number 10 : 0 : A
+Equation number 11 : 0 : PEreal
+Equation number 12 : 0 : 12
+
+

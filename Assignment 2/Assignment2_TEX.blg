@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'Assignment2_TEX.blg'
+[220] biber-MSWIN64:340> INFO - === 
+[289] Biber.pm:418> INFO - Reading 'Assignment2_TEX.bcf'
+[520] Biber.pm:972> INFO - Found 0 citekeys in bib section 0
+[552] bbl.pm:654> INFO - Writing 'Assignment2_TEX.bbl' with encoding 'UTF-8'
+[553] bbl.pm:757> INFO - Output to Assignment2_TEX.bbl
+[553] Biber.pm:130> WARN - The file 'Assignment2_TEX.bcf' does not contain any citations!
+[553] Biber.pm:132> INFO - WARNINGS: 1
